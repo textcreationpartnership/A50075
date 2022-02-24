@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several lavvs and orders made at the General Court held at Boston, the 23d of May, 1666, and on the 11th of October following printed and published by order of the General Court, the said 11th of October, 1666, by Edward Rawson, secr.</title>
+            <title>Laws, etc.</title>
+            <author>Massachusetts.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50075</idno>
+            <idno type="STC">Wing M1020</idno>
+            <idno type="STC">ESTC R36915</idno>
+            <idno type="EEBO-CITATION">16152015</idno>
+            <idno type="OCLC">ocm 16152015</idno>
+            <idno type="VID">104902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1597:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several lavvs and orders made at the General Court held at Boston, the 23d of May, 1666, and on the 11th of October following printed and published by order of the General Court, the said 11th of October, 1666, by Edward Rawson, secr.</title>
+                  <title>Laws, etc.</title>
+                  <author>Massachusetts.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Samuel Green,</publisher>
+                  <pubPlace>[Cambridge, Mass. :</pubPlace>
+                  <date>1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At head of title: Major general &amp; majors power concerning the militia.</note>
+                  <note>Imprint suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Massachusetts.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104902:1"/>
+            <!-- PDF PAGE 109 -->
+            <pb n="1" facs="tcp:104902:1"/>
+            <!-- PDF PAGE 109 -->
+            <head>SEVERALL LAVVS AND ORDERS Made at the GENERAL COURT <hi>Held at</hi> Boſton, the 23<hi rend="sup">d</hi> of <hi>May,</hi> 1666. And on the 11<hi rend="sup">th</hi> of <hi>October</hi> following.</head>
+            <head type="sub">
+               <hi>PRinted and Publiſhed by Order of the</hi> General Court, <hi>the ſaid</hi> 11<hi rend="sup">th</hi> of <hi>October,</hi> 1666.</head>
+            <byline>
+               <hi>By EDWARD RAWSON</hi> Secr.</byline>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas this Court hath already provided for the well Ordering and ſetling the Militia of this Common-wealth, as in the Law</hi> tit. <hi>Mili<g ref="char:EOLhyphen"/>tary, yet, foraſmuch as many Complaints are preſented to this Court,</hi>
+               <note place="margin">
+                  <hi>Major General</hi> &amp; <hi>Majors</hi> power to ſee that all the Armes of the Country be rea<g ref="char:EOLhyphen"/>dily fixt.</note> 
+               <hi>that the ſaid Orders are not ſo attended as is to be deſired, conſidering the preſent Juncture of affaires between our</hi> Engliſh Nation <hi>and</hi> forreign Enemies, <hi>who are now engaged in a bloody warre, which calls for a prudential en<g ref="char:EOLhyphen"/>deavrur of our own ſafety, againſt any forreign Invaſion or ſuddain Surprizal;</hi> This Court doth therefore Order, and Enact, that the ſaid Military Laws be by all perſons therein mentioned, forthwith attended in all reſpects, and for the better effecting the ſame, <note place="margin">Penalty for de<g ref="char:EOLhyphen"/>fects of Inferi<g ref="char:EOLhyphen"/>our Officers.</note> the <hi>Major General</hi> is required forthwith by warrant under his hand to the <hi>Majors</hi> of the ſeveral Regiments, require them to make diligent inquiry into the ſtate of the ſeveral Companies under their charge, and to be certified under the hands of the Commiſſion Officers, or Chief Of<g ref="char:EOLhyphen"/>ficers where no Commiſſion Officers are, of each Company, of all defects of Armes, Amunition, or otherwiſe in every reſpect, and the ſaid <hi>Majors</hi> reſpectively are required, to give ſpeedy advice to the <hi>Major General</hi> what poſture their ſaid Regiments are in, and wherein the ſaid <hi>Majors</hi> cannot of themſelves forthwith make redreſs of any defects in the ſaid Companies the ſaid Majors with the advice of the Major General have hereby power to uſe all lawfull means to effect the ſame. And all inferiour Officers are hereby re<g ref="char:EOLhyphen"/>quired to yield ready obedience to all ſuch warrants ſent to them by the ſaid
+<pb n="2" facs="tcp:104902:2"/>
+               <!-- PDF PAGE 110 -->Majors reſpectively, or Major General, upon the penalty of five pounds for every defect, <note place="margin">All the fines to go to procure a ſtock of Powder for the company where the de<g ref="char:EOLhyphen"/>fects ariſe.</note> to be levied by diſtreſs by ſuch perſon as the ſaid Major General and Majors of the Regiments ſhall depute, which ſaid fines ſhall be for a ſtock of Powder for the ſaid Company where the defects ariſe from time to time.</p>
+            <p>And <hi>whereas ſeveral Towns in this Jurisdiction, are not under the Command of any Serjeant Major, as</hi> Dover, Portſmouth, <hi>&amp;c, as alſo the Towns of the County of</hi> Hampſhire; <note place="margin">The ſeveral Towns that are not under Ma<g ref="char:EOLhyphen"/>jors of Regi<g ref="char:EOLhyphen"/>ments to be Re<g ref="char:EOLhyphen"/>gulated &amp; Or<g ref="char:EOLhyphen"/>dered by the Major General.</note> It is Ordered that the Major General take care for regulating of the Military affaires of ſuch Towns, till they are brought under a Major as in other Counties: and all Military Officers of ſuch places are re<g ref="char:EOLhyphen"/>quired Obedience to the Orders of the Major General from time to time, upon the penalty above mentioned, for every defect.</p>
+            <p>
+               <note place="margin">Order to prevent Drunkenneſs in Indians.</note>
+               <hi>WHereas the ſin of Drunkenneſs amongſt the Indians doth much increaſe, notwithſtanding the Laws provided againſt that crying ſin;</hi> This Court doth therefore Order, <note place="margin">Their ſtrong Li<g ref="char:EOLhyphen"/>quors. &amp;c. to be ſeized by any perſon.</note> that any perſon or perſons that ſhall ſee, know or finde, any Indian with any ſtrong Liquors, Wine, or ſtrong Drink, that ſuch Indians have any way gotten without order, as the Law directs; ſhall have power to ſeize the ſame, <note place="margin">On refuſal to confeſs &amp;c. to be committed to Priſon.</note> and to deliver the ſaid ſtrong drink to the Conſtables of the Town or Place where ſuch Indians are found, with their perſons to be conveyed be<g ref="char:EOLhyphen"/>fore ſome Magiſtrate, or Commiſſioner, who have power to deal in ſuch caſes, and ſuch Indians as are found drunk, <note place="margin">Their accuſation againſt perſons to be evidence un<g ref="char:EOLhyphen"/>leſs y<hi rend="sup">e</hi> party cear himſelf on Oath, &amp;c.</note> being apprehended, and will not confeſs how, or where they had the ſaid Wine, Liquors or ſtrong Drink, ſhall be ſecured or impriſoned, until they make a juſt acknowledgement where they had their Drink aforeſaid, or committed to the houſe of Correction, and there labour to diſcharge the charge of their proviſion.</p>
+            <p>And if any ſuch Indian do accuſe any perſon for ſelling or delivering ſtrong drink unto them, <note place="margin">If Drunk to pay ten ſhillings or be whipt with ten ſtripes, &amp;c.</note> ſuch Indian accuſation ſhall be accounted valid, againſt any ſuch perſons accuſed, except ſuch perſons ſhall clear themſelves by taking their Oath to the contrary, any Law, or Cuſtome to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>And it is alſo further Ordered that whatſoever Indian ſhall hereafter be taken Drunk, ſhall pay the ſum of <hi>ten ſhillings</hi> or elſe be whipt, by laying on <hi>ten ſtripes,</hi> according to the diſcretion of the Judge, whether Magiſtrate or Com<g ref="char:EOLhyphen"/>miſſioner, who ſhall have cognizance of the caſe: and in all Towns where no Magiſtrate or Commiſſioners are, ſuch caſes ſhall be judged by the ſelect men or major part of them.</p>
+            <p>
+               <hi>WHereas the Law</hi> tit. <hi>Military,</hi> Sect. 7. <hi>Requires every Pikeman to be com<g ref="char:EOLhyphen"/>pleatly furniſhed (amongſt other weapons with a ſufficient Corſlet) This Court conſidering that Corſlets are wanting to many Souldiers in ſeveral Companies and that ſupplies therein are not eaſily to be attained;</hi>
+               <note place="margin">Pikemen to pro<g ref="char:EOLhyphen"/>vide Buffe Coats or Quilted coats in ſtead.</note> It is therefore now Or<g ref="char:EOLhyphen"/>dered, and by the Authority of this Court Enacted, that every Pikeman within this Jurisdiction, ſhall be compleatly furniſhed, either with a ſufficient Corſlet, Buffe Coat, or Quilted Coat, ſuch as ſhall be allowed by the Chief Officer, under whoſe command they from time to time ſhall ſerve, upon the penalty in the recited Law already expreſſed, any Law, Cuſtome or Uſage to the con<g ref="char:EOLhyphen"/>trary notwithſtanding.</p>
+            <p>
+               <pb n="3" facs="tcp:104902:2"/>
+               <!-- PDF PAGE 110 -->
+               <hi>AS an Addition &amp; explanation of the Law</hi> tit. <hi>This Court finding that ſeveral inconveniences and troubles do ariſe about Strayes,</hi>
+               <note place="margin">Addition to the Law of Strayes.</note> 
+               <hi>Cattle and Horſes &amp;c. and that the temp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation may be too great on ſome perſons in remote Towns and Farms, to tak<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up cattle, &amp;c. and make Stray<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of them,</hi>
+               <note place="margin">To be cryed in the Town on which they have the Brand mark.</note> 
+               <hi>the whole benefit redound<g ref="char:EOLhyphen"/>ing to themſelves;</hi> This Court doth Order for the time to come, that all Strayes ſhall be firſt cryed in that Town of which they have the Brand-mark, and that all ſuch Strayes and other loſt Goods conteined in the ſaid Law,<note place="margin">To be entred with the Recor<g ref="char:EOLhyphen"/>der of the Coun<g ref="char:EOLhyphen"/>ty.</note> ſhall be entred with the County Recorder in each County, and by him transferred to the Country Treaſurer within one Moneth, and in caſe the ſaid Goods and Strayes are not owned within one year, as is therein expreſſed, <note place="margin">Halfe to the Countrey &amp; the other halfe to the finder.</note> then the one halfe, or the value of one halfe ſhall be to the uſe of the Countrey, and the other halfe to the finder, the charges being firſt payd out of the whole.</p>
+            <p>
+               <hi>WHereas this Court hath encouraged and authorized ſome Perſons to make Gun-powder and have promiſed to enable them thereunto,</hi>
+               <note place="margin">Order impouring the Select men to make Orders with penalty to propagate ſalt Peeter. <hi>&amp;c.</hi>
+               </note> 
+               <hi>by ſuch publick and neceſſary Orders as may conduce to the effecting the ſame,</hi> The conſideration whereof hath mooved the Court hereby to Order and Enact, that the Select men of every Town (where the Powder makers Authorized, by this Court ſhall deſire it) be Authorized and required hereby, to make and execute ſuch Orders in their reſpective Towns, as they ſhall judge meet (with the advice of skilfull perſons) for increaſing and procuring of <hi>Salt Peeter,</hi> and to impoſe ſuch penalties as the Select men ſhall ſee meet not exceeding ten ſhillings for one offence, upon all perſons that ſhall neglect or refuſe to perform ſuch Order or Orders, for the propagating and increaſing of <hi>Salt Peeter,</hi> in their reſpective Towns: and moreover the ſaid ſelect men are further impowred to chooſe and appoint an Officer or Officers, and to allow him a convenient ſtipend annually, for his paines out of the fines, or otherwiſe to look to the exe<g ref="char:EOLhyphen"/>cuting ſuch Orders as they ſhall make in that behalfe.</p>
+            <p>And it is further Ordered that ſuch Select men who ſhall neglect or refuſe to make and effectually execute ſuch neceſſary Orders, as ſhall conduce to the ends aforeſaid, they ſhall be preſented at the Court of that County, and there be fined for their neglect at the diſcretion of the Court, not exceeding five pounds for one offence, and this Law to be put in execution forthwith after the publication thereof, and this to continue during the Courts pleaſure.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
